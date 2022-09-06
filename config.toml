@@ -24,6 +24,7 @@ customJS = ["js/console.js"] # Path relative to assets folder
 description = "Fihima Mohamed - Farm Girl"
 email = "mail@example.com"
 favicon = '/favicon.ico'
+image = "/img/preview.jpg" # this image will be used as fallback if a page has no image of its own
 # Dark mode support
 # Supported value are :
 # - off
