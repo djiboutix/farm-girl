@@ -6,8 +6,8 @@ weight = 20  # Order that this section will appear.
 # Uncomment the following line and widget will NOT be displayed
 # hidden = true
 
-title = "Skills"
-subtitle = "I am really good at the following technical skills"
+title = "Productions"
+subtitle = "Transform our agricultural production to consume locally"
 
 [[bar]]
 	icon = "/icons/precision.svg"

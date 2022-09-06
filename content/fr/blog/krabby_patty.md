@@ -1,6 +1,6 @@
 +++
-title = "Recette du Krabby Patty"
-subtitle = "Comment le meilleur burger de tout les temps est fait."
+title = "La résilience est la clé de l'agriculture"
+subtitle = "Je dois recommencer à zéro 😭 toutes mes cultures sont mortes à cause des #canicules 😭"
 tags = ['recipe']
 date = 2020-06-25
 

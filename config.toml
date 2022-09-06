@@ -10,7 +10,7 @@ paginate = 10
 theme = 'pico'
 # Title of the website is used for the meta tag title
 # and the square icon (not the favicon)
-title = 'Pico'
+title = 'Fihima Mohamed - Farm Girl'
 
 [params]
 customCSS = [
@@ -21,7 +21,7 @@ customJS = ["js/console.js"] # Path relative to assets folder
 # Homepage description
 # For blog page description you can overwrite it 
 # in the front matter
-description = "Boilerplate website"
+description = "Fihima Mohamed - Farm Girl"
 email = "mail@example.com"
 favicon = '/favicon.ico'
 # Dark mode support

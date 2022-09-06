@@ -1,6 +1,6 @@
 +++
-title = "Krabby Patty recipe"
-subtitle = "How the best burger of all time is made."
+title = "Resilience is the key of Farming"
+subtitle = "I have to restart from scratch😭 all my crops died from #heatwaves 😭"
 tags = ['recipe']
 date = 2020-06-25
 

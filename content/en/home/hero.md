@@ -25,7 +25,6 @@ hero_media = "/img/portrait.jpg"
 
 +++
 
-# A theme to **express** your ideas.
+# Investing in empowering women **farmers**
 
-Pico is a minimalist, readable, responsive, light and beautiful Hugo theme.
-
+Avec les bonnes ressources et la bonne formation pour maximiser les opportunités économiques, augmenter la productivité et améliorer la sécurité alimentaire

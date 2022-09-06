@@ -25,6 +25,6 @@ hero_media = "/img/portrait.jpg"
 
 +++
 
-# Un thème pour **exprimer** vos idées.
+# Investir dans l'autonomisation des **agricultrices**
 
-Pico est un thème qui se veut minimaliste, responsive, clair et léger.
+With the right resources & training to maximize economic opportunities, increase productivity and improve Food Security

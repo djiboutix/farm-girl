@@ -7,7 +7,7 @@ weight = 20  # Order that this section will appear.
 # hidden = true
 
 title = "Compétences"
-subtitle = "Je maitrise les compétences techniques suivantes :"
+subtitle = "Transformer notre production agricole pour consommer local"
 
 [[bar]]
 	icon = "/icons/precision.svg"
